@@ -1,2 +1,2 @@
 # HelperFunctions
-Data Science Helper Functions
+Helper functions to aid in my productivity as a Data Scientist
